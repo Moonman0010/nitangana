@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "58834192267",
+    "firebase_url": "https://nitangana-2df30.firebaseio.com",
+    "project_id": "nitangana-2df30",
+    "storage_bucket": "nitangana-2df30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58834192267:android:d86a07f13f447166",
+        "android_client_info": {
+          "package_name": "com.kodexlabs.nitangana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58834192267-m4apgjth6tcvtok63cun63q7p1csvffe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kodexlabs.nitangana",
+            "certificate_hash": "76602b97a868755b5fdeed6935f11a24838546c6"
+          }
+        },
+        {
+          "client_id": "58834192267-319b059pvhhgm2uhc8vpqu9umbmdjd9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHKGa90fSkPDqZ9Xde2uC5moRX6mDOIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58834192267-319b059pvhhgm2uhc8vpqu9umbmdjd9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
